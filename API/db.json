@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$HYAMnGHLIiJpOiKY9YReduHGyNVuRitjiQjQzcBLYqn1wHLqXjMwi",
+      "firstName": "کاربر",
+      "lastName": "تست",
+      "id": 1
+    }
+  ],
+  "lists": [
+    {
+      "title": "کارهای باقیمانده",
+      "user_id": 9,
+      "id": 1
+    }
+  ],
+  "tasks": []
+}
